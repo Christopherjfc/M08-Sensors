@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Altimetre</string>
+    <string name="error_al_encontrar_la_altura">Error al encontrar la altura</string>
 </resources>
