@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Podòmetre</string>
+    <string name="passos_donats">Passos donats: cap</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
